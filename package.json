@@ -28,7 +28,7 @@
     "moment": "^2.24.0",
     "moment-timezone": "^0.5.25",
     "node-quickbooks": "^2.0.32",
-    "nodemailer": "^6.2.1",
+    "nodemailer": "^6.4.16",
     "querybase": "^0.6.0",
     "square-connect": "^2.20190410.1",
     "wheniwork": "^2.0.3"
