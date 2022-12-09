@@ -21,7 +21,7 @@
   "dependencies": {
     "angular-chart.js": "^1.1.1",
     "body-parser": "^1.18.3",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "firebase-admin": "^7.3.0",
     "handlebars": "^4.1.2",
     "intuit-oauth": "^1.2.0",
